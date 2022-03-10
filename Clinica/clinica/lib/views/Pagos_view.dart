@@ -21,6 +21,50 @@ class _PagosState extends State<Pagos> {
   }
 
   Widget menu(){
+    return Scaffold(
+      body: ListView(
+        children: [
+          Card(
+            child: Column(
+              children: [
+                ListTile(
+                  leading: Icon(Icons.add_shopping_cart),
+                  title: Text('Pago 1'),
+                  subtitle: Text(
+                    'Tratamiento: Ortodoncia//Fecha de pago: 20 de febrero del 2022//Medio de pago: efectivo//Valor: 2.500.000'),
+                )
+              ]
+            ) 
+          ),
+          Card(
+            child: Column(
+              children: [
+                ListTile(
+                  leading: Icon(Icons.add_shopping_cart),
+                  title: Text('Pago 2'),
+                  subtitle: Text(
+                    'Tratamiento: blanqueamiento//Fecha de pago: 20 de febrero del 2022//Medio de pago: efectivo//Valor: 200.000'),
+                )
+              ]
+            ) 
+          ),
+          Card(
+            child: Column(
+              children: [
+                ListTile(
+                  leading: Icon(Icons.add_shopping_cart),
+                  title: Text('Pago 3'),
+                  subtitle: Text(
+                    'Tratamiento: Periodoncia//Fecha de pago: 25 de febrero del 2022//Medio de pago: consignacion bancaria//Valor: 500.000'),
+                )
+              ]
+            ) 
+          )
+        ],
+      )
+    );
+  }
+ /*Widget menu(){
     return ListView(
       children: [
         ListTile(
@@ -54,5 +98,5 @@ class _PagosState extends State<Pagos> {
       ]
     );
 
-  }
+  }*/
 }
