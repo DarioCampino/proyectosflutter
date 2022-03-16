@@ -1,0 +1,31 @@
+[{
+    "_id": {
+      "$oid": "62300d63bfb6ec2ed3fecfaf"
+    },
+    "nombre": "Ortodoncia",
+    "nombre doc": "Esteban",
+    "apellido doc": "Fuentes",
+    "Fecha": "5/02/2022",
+    "Hora": "12:00",
+    "Observaciones": "Tratamiento exitoso"
+  },{
+    "_id": {
+      "$oid": "62301150bfb6ec2ed3fecfb8"
+    },
+    "nombre": "Periodonsia",
+    "nombre doc": "Leidy",
+    "apellido doc": "Reina",
+    "Fecha": "20/12/2021",
+    "hora": "17:00",
+    "observaciones": "Finalizados con exito"
+  },{
+    "_id": {
+      "$oid": "62301150bfb6ec2ed3fecfb9"
+    },
+    "nombre": "higiene dental",
+    "nombre doc": "Leidy",
+    "apellido doc": "Reina",
+    "Fecha": "20/04/2021",
+    "hora": "15:00",
+    "observaciones": "Llegar puntual"
+  }]

@@ -1,0 +1,40 @@
+[{
+    "_id": {
+      "$oid": "6230052f544c43c68d5bff69"
+    },
+    "nombre": "Dario",
+    "apellido": "pantoja",
+    "genero": "masculino",
+    "edad": "21",
+    "estrato": "2",
+    "sangre": "O+"
+  },{
+    "_id": {
+      "$oid": "6230052f544c43c68d5bff6a"
+    },
+    "nombre": "juan",
+    "apellido": "rodiguez",
+    "edad": "21",
+    "estrato": "4",
+    "rh": "A+"
+  },{
+    "_id": {
+      "$oid": "62300896bfb6ec2ed3fecfa6"
+    },
+    "nombre": "Maria",
+    "apellido": "collazos",
+    "genero": "Femenino",
+    "edad": "34",
+    "estrato": "3",
+    "rh": "O+"
+  },{
+    "_id": {
+      "$oid": "62300896bfb6ec2ed3fecfa7"
+    },
+    "nombre": "Ana",
+    "apellido": "Rosero",
+    "genero": "Femenino",
+    "edad": "20",
+    "estrato": "1",
+    "rh": "O-"
+  }]

@@ -1,0 +1,34 @@
+[{
+    "_id": {
+      "$oid": "623012dbbfb6ec2ed3fecfbd"
+    },
+    "nombre": "odontologico",
+    "modalidad": "presencial",
+    "nombre doc": "Leidy",
+    "apellido doc": "Reina",
+    "Fecha": "20/12/2021",
+    "hora": "17:00",
+    "observaciones": "Finalizados con exito"
+  },{
+    "_id": {
+      "$oid": "623012dbbfb6ec2ed3fecfbe"
+    },
+    "nombre": "consulta",
+    "modalidad": "virtual (llamada)",
+    "nombre doc": "Esteban",
+    "apellido doc": "Fuentes",
+    "Fecha": "08/12/2021",
+    "hora": "8:00",
+    "observaciones": "Finalizados con exito"
+  },{
+    "_id": {
+      "$oid": "623012dbbfb6ec2ed3fecfbf"
+    },
+    "nombre": "odontolofico",
+    "modalidad": "presencial",
+    "nombre doc": "Leidy",
+    "apellido doc": "Reina",
+    "Fecha": "20/04/2022",
+    "hora": "17:00",
+    "observaciones": "Llegar puntual"
+  }]

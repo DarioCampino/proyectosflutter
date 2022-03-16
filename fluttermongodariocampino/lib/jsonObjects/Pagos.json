@@ -1,0 +1,25 @@
+[{
+    "_id": {
+      "$oid": "62301681bfb6ec2ed3fecfcf"
+    },
+    "nombre pas": "Ana",
+    "apellido pas": "Pantoja",
+    "Fecha pag": "12/12/2021",
+    "metodo": "Efectivo"
+  },{
+    "_id": {
+      "$oid": "62301681bfb6ec2ed3fecfd0"
+    },
+    "nombre pas": "Miguel",
+    "apellido pas": "Cordoba",
+    "Fecha pag": "20/02/2022",
+    "metodo": "Tarjeta debito"
+  },{
+    "_id": {
+      "$oid": "62301681bfb6ec2ed3fecfd1"
+    },
+    "nombre pas": "Luis",
+    "apellido pas": "Guebara",
+    "Fecha pag": "25/01/2022",
+    "metodo": "cheque"
+  }]

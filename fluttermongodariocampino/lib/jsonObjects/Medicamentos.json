@@ -1,0 +1,25 @@
+[{
+    "_id": {
+      "$oid": "623013f7bfb6ec2ed3fecfc3"
+    },
+    "nombre": "Acetaminofen",
+    "Formato": "Pasta",
+    "cada": "8 horas",
+    "dias": "5"
+  },{
+    "_id": {
+      "$oid": "623013f7bfb6ec2ed3fecfc4"
+    },
+    "nombre": "ibuprofeno",
+    "Formato": "Pasta",
+    "cada": "12 horas",
+    "dias": "8"
+  },{
+    "_id": {
+      "$oid": "623013f7bfb6ec2ed3fecfc5"
+    },
+    "nombre": "penicilina",
+    "Formato": "inyeccion",
+    "cada": "una sola ves",
+    "dias": "una sola ves"
+  }]
